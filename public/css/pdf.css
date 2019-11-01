@@ -1,0 +1,62 @@
+html {
+    margin: 25px;
+}
+
+
+
+table {
+}
+
+td, th {
+    padding: 0px;
+}
+
+td {
+    vertical-align: top;
+}
+
+table.main-table {
+    width: 100%;
+}
+
+table.main-table td, table.main-table th {
+    padding: 5px 3px;
+}
+
+h1, h2, h3, h4 {
+    margin: 0;
+}
+
+h2 { font-size: 20px; margin-bottom: 16px }
+
+.text-center {
+    text-align: center;
+    vertical-align:middle;
+}
+
+.text-right {
+    text-align: right;
+}
+
+.text-left {
+    text-align: left;
+}
+
+p {
+    margin: 0 0 3px 0;
+}
+
+div {
+    margin: 0;
+    padding: 0;
+}
+
+.strong { font-weight: bold; }
+
+.border-bottom {
+    border-bottom: 1px solid #000;
+}
+
+.page-break {
+    page-break-after: always;
+}
